@@ -27,6 +27,10 @@ Here are some ideas to get you started:
    </span>
   
    <span>
+    <img height="30px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+   </span>
+  
+   <span>
     <img height="30px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
    </span>
    
@@ -37,10 +41,7 @@ Here are some ideas to get you started:
    <span>
     <img height="30px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
    </span>
-  
-   <span>
-    <img height="30px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-   </span>
+ 
     
  </div>
 </div>
