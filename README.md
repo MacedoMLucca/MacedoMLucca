@@ -4,7 +4,7 @@
 
 - 💻 Estudante de Tecnologia.
 
-- 🙋‍♂️ Um pouco mais de <a href="luccamacedo.netlify.app">QUEM SOU EU </a>.
+- 🙋‍♂️ Um pouco mais de <a href="luccamacedo.netlify.app" target="_blank" >QUEM SOU EU </a>.
 
 - 👨‍💻 Desenvolvedor FULL-STACK em processo de construção.
 
