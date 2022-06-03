@@ -1,4 +1,4 @@
-<h1 align="left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, seja bem vindo(a)</h1>
+<h1 align="left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px" heigth="20px">, seja bem vindo(a)</h1>
 
  <h3>Me chamo Lucca Macedo 👑</h3>
 
